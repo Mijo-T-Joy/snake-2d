@@ -67,5 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "2D snake.slnx"
+    "dotnet.defaultSolution": "2D snake.slnx",
+    "github.copilot.chat.agent.currentEditorContext.enabled": false
 }
